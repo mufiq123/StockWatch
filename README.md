@@ -1,7 +1,8 @@
 # StockWatch
 
-The chrome extension can be downloaded from the Google Store at version 12.22.
+The Chrome extension can be downloaded from the Google Store at version 12.22.
 
-If the stock don't display immediately please wait a couple minutes as there are a limited number of API calls.
+If the stocks don't display immediately please wait a couple of minutes as there are a limited number of API calls.
 
 
+![Screenshot](Screenshots/Screenshot (176).png)
