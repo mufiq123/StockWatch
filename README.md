@@ -6,5 +6,4 @@ If the stocks don't display immediately please wait a couple of minutes as there
 
 
 <img src="Screenshots/Screenshot (172).png" />
-
 <img src="Screenshots/Screenshot (176).png" />
